@@ -1,4 +1,4 @@
-# Zksync-rat-barn
+# Zksync-internal cheat address
 
 First, before discussing, let’s review the officially released NFT (LIBERTAS OMNIBUS).
 
