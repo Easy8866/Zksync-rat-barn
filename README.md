@@ -236,5 +236,5 @@ These two addresses also belong to official members. They possess (LIBERTAS OMNI
 
 ---------------------------------------------------
 
-# Based on the above evidence, it is evident that the ZKSync project is plagued by internal corruption among team members. The core issue behind the uproar caused by this airdrop is the lack of transparency in the airdrop rules. To cover up the internal cheating addresses, many legitimate users were sacrificed. In December 2023, I disclosed a scandal involving a former employee, Seb, who was the DeFi ecosystem head, and the ecosystem project Syncus DAO. Seb promised large ecosystem airdrops in exchange for returning some of the tokens to him: https://x.com/Easy17182589/status/1730980103361077391
+**Based on the above evidence, it is evident that the ZKSync project is plagued by internal corruption among team members. The core issue behind the uproar caused by this airdrop is the lack of transparency in the airdrop rules. To cover up the internal cheating addresses, many legitimate users were sacrificed. In December 2023, I disclosed a scandal involving a former employee, Seb, who was the DeFi ecosystem head, and the ecosystem project Syncus DAO. Seb promised large ecosystem airdrops in exchange for returning some of the tokens to him: https://x.com/Easy17182589/status/1730980103361077391**
 
