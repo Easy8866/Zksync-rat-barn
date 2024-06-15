@@ -13,30 +13,41 @@
 这些地址并不满足官方所公布的规则：
 7月12日之前与150多个ZKSYNC NFT收藏中至少互动的人，这些地址并没有7月12日之前进行nft交易，直接进行mint。
 （LIBERTAS OMNIBUS）合约地址0xd07180c423f9b8cf84012aa28cc174f3c433ee29
+![dc](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/f9eb9add-2fd9-4d3e-b831-b4839a1d3626)
 
 **A组**
 这组地址利用合约权限，添加白名单，在不符合mint条件的地址直接添加进合约然后进行mint
 以下这组地址 利用dune 查询得出，可能有少数地址误入， https://dune.com/queries/3113136
 逻辑是7月12日前没有进行过NFT交易的地址，但是进行mint nft（LIBERTAS OMNIBUS）
-500X地址位置·····
+![1](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/a54a0e53-ce85-4629-afe0-a1503f86c83c)
+![3](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/f5d50013-ef20-44e5-94fa-2ee6f1a2f28f)
+![5](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/0edf5e86-fd09-4eb8-8559-2128717bed9b)
 
-这组地址分为两个小组分别为A1.A2
-A1
-他们在mint了NFT后，在element进行售出，谋取利益
-地址位置····
-其中xxx地址查询竟然是mod空投领取地址
 
-A2
-这组地址mint nft之后，进行了交互，获得了空投
+
+https://docs.google.com/spreadsheets/d/1x0S87uF6nS8ftrPFHkfaYqqaE0x6ekUNiwv5SL-S63I/edit?usp=sharing
+
+他们在mint了NFT后，有270个地址在element进行售出，谋取利益
+![2](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/edd60a4e-f33f-4819-95dc-cf90dc646d07)
+![4](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/18bb19c0-6d68-466c-8a3b-c58f27654304)
+![6](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/22566115-589e-4e34-8559-a21f6559ca6e)
+
+
+其中79个地址收获了74万zk空投
 
 -------------------------------------------------------------------
-B组
+**B组**
+
 这组地址利用合约权限，由合约创始人地址进行mint nft，然后获得了空投
 创建（LIBERTAS OMNIBUS）NFT合约的地址0x526a599f58f1e5ba4a1c5c14c723698b2a7b0791
-该地址 利用合约权限batchMint，safeMint锻造了大量的NFT给到自己的多个地址
-同样也分为了两个小组
+该地址，利用合约权限batchMint，safeMint锻造了大量的NFT给到自己的多个地址，我将他分为了两个小组
+![合约batchMint](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/053a41a8-b34c-42c8-b272-d01635d68330)
+![合约safeMint](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/5b21e1f8-2d94-4f66-b329-a954242dde72)
+
 
 **B1 safeMint**
+![合约batchMint 01](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/962d9a5d-99bb-439c-8ce4-6ce5461f65ab)
+![合约batchMint 02](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/63da8efa-a03f-4d53-ad1b-3195f4a9125b)
 
 
 https://docs.google.com/spreadsheets/d/1ppjwUBEA7E5R_MJ5NoON9OneTpjQUEtYDwSvXwtvO5o/edit?usp=sharing
@@ -138,11 +149,18 @@ Address	                                   zk Amount
 
 **B2 batchMint**
 
-这组地址非常庞大我将他放入google表格
+![合约safeMint 01](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/5019bd0a-1825-4c29-9fcc-860bc5ee2108)
+![合约safeMint 02](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/459a8359-4bc6-4789-b605-b339a9dcf917)
+![合约safeMint 03](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/e09ae4f3-37d7-4549-a557-da81991048ac)
+
+
+这组地址非常庞大我将他全部数据放入google表格
 
 https://docs.google.com/spreadsheets/d/1TnaSdzl6No_HinEZrSpBdZ_gqO-4esjV-EhGszj_XxY/edit?usp=sharing
 
-nft合约创建者利用合约权限batchMint了大量的（LIBERTAS OMNIBUS）给到9871个地址，4685个地址获得了空投，总共获得4300万ZK，更为可怕的是，上限的10万个zk地址竟然有109个，这是一个非常庞大的内部违规获取token手段，团队无需等待解锁份额，通过这个手段提前进行套利。
+*nft合约创建者利用合约权限batchMint了大量的（LIBERTAS OMNIBUS）给到9871个地址，4685个地址获得了空投，总共获得 **4300万ZK** ，更为可怕的是，上限的10万个zk地址竟然有109个，这是一个非常庞大的内部违规获取token手段，团队无需等待解锁份额，通过这个手段提前进行套利。*
+
+这9871个地址肯定也有在nft市场进行售卖nft谋求利益，这些数据筛选麻烦我就跳过这环节了。
 
 -------------------------------------------------------
 接下来的这些是属于官方成员关联的地址
@@ -174,7 +192,21 @@ Address	  ZK Amount
 0x2dcd860489cd099fb966d1729f890b8c5c997908
 
 ---------------------------------------------------
-Bxpana.eth
+Bxpana
 0x09d8270a1de38b53df1f47dec27f377ce145115c
 
+附属地址
+0x7ffbda77afc7d11f5d14201faaf10d12cc94ff08
+
+0x5a930b098ed8d58dd4590577af85a8e864a8f6fe
+
+
+albicodes
+0x158d6919f02657c2d19041693cb58daaa201f367
+
+这2个也是官方成员，（LIBERTAS OMNIBUS），也是没有符合空投条件，添加白名单进行mint，还有几个官方成员地址及其附属地址我就不进行列出。
+
+---------------------------------------------------
+
+# 根据以上证据，可以看出zksync这个项目，内部团队成员的腐败，这次空投闹出如此大的动静，核心也是空投规则的不透明，并且为了掩盖内部作弊地址，而牺牲了非常多的用户，我在23年12月份曾经披露过，前员工seb，defi生态负责人，与生态项目Syncus DAO的丑闻，seb向生态承诺可以给与大量生态空投，但是要返回一下代币给他：https://x.com/Easy17182589/status/1730980103361077391
 
