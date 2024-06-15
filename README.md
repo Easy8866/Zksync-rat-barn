@@ -1,5 +1,5 @@
 # Zksync-rat-barn
-首先，看第一组老鼠仓之前，我们先回顾一下官方发行的NFT （LIBERTAS OMNIBUS）
+首先，看老鼠仓之前，我们先回顾一下官方发行的NFT （LIBERTAS OMNIBUS）
 
 推特https://x.com/zksync/status/1691808445224087555
 
@@ -8,11 +8,13 @@
 
 ------------------------------------------------
 
-这组老鼠仓是官方成员利用合约权限，mint nft 批量mint给到自己的地址，地址我只保留了以下不完全的XXX个地址，这些地址并不满足官方所公布的规则：
-7月12日之前与150多个ZKSYNC NFT收藏中至少互动的人，很多地址并没有进行nft交易，直接进行mint。
+这组老鼠仓是官方成员利用合约权限，mint nft 给到自己的地址
 
+这些地址并不满足官方所公布的规则：
+7月12日之前与150多个ZKSYNC NFT收藏中至少互动的人，这些地址并没有7月12日之前进行nft交易，直接进行mint。
+（LIBERTAS OMNIBUS）合约地址0xd07180c423f9b8cf84012aa28cc174f3c433ee29
 
-A组
+**A组**
 这组地址利用合约权限，添加白名单，在不符合mint条件的地址直接添加进合约然后进行mint
 以下这组地址 利用dune 查询得出，可能有少数地址误入， https://dune.com/queries/3113136
 逻辑是7月12日前没有进行过NFT交易的地址，但是进行mint nft（LIBERTAS OMNIBUS）
@@ -27,21 +29,120 @@ A1
 A2
 这组地址mint nft之后，进行了交互，获得了空投
 
-
+-------------------------------------------------------------------
 B组
 这组地址利用合约权限，由合约创始人地址进行mint nft，然后获得了空投
 创建（LIBERTAS OMNIBUS）NFT合约的地址0x526a599f58f1e5ba4a1c5c14c723698b2a7b0791
 该地址 利用合约权限batchMint，safeMint锻造了大量的NFT给到自己的多个地址
 同样也分为了两个小组
-B1
-他们在mint了NFT后，在element进行售出，谋取利益
-地址位置····
 
-B2
-这组地址mint nft之后，进行了交互，获得了空投
+**B1 safeMint**
 
 
+https://docs.google.com/spreadsheets/d/1ppjwUBEA7E5R_MJ5NoON9OneTpjQUEtYDwSvXwtvO5o/edit?usp=sharing
 
+**他们在mint了NFT后，有65个地址在element进行售出nft，谋取利益**
+```
+0xf173be26aeb4c89a535d18eba85fd3eb093a3677
+0x0fbfc1e4d011707e7b9f5f1125b3773454dfcaf2
+0xa38e67f8251e69e6911029e23498b33150d33331
+0x25b691a40f8d349385fe8e21d01a384542803389
+0x1481589fe956da324063917cd08f94118b4b4216
+0xb453bbaa43ba0358a9fe54da72006f9def83815e
+0xf2863ed6a38614688a4d96cf2b6a2f58dfbaf216
+0x5a8429cb0688a7c79880d304ef6ed59a028cc7a2
+0xdace1776c22f3589686934fffd9adfb62ffc3eb6
+0x75ef817c63d4e468323db2178480e9405ededeec
+0x09a001705065a5b991cc806948300b115266836c
+0x04128317261b5ab669372f990580fac7e5c3937e
+0xbf09d4e2bf1cc4a3090ff10a1c4f70bdc21047fa
+0xce37e163e966dc88228006e84bf2cd07124441c7
+0x717a922742294081bfe09b5e849696de04b5e89e
+0xc479b19f7b4e979d863c1e1738e4ac1b666fc998
+0x3c0df91b1fab35453589275fd66b3a3d82262dce
+0xada1c4aeb897658dae86f9e3dd371ec5e573f19e
+0x99c08388c474c10b06574bd0be8e1656a1d25c6e
+0xd6f29c10900fab7898d7f7f565f3f1b9dc8e60f5
+0xa0d4dbe68a73b222ba34bb663d34960b11c0b8c7
+0xe417c2de10d4d49bc80203882b48227cffa709dd
+0x85bdb156b8126458a2e9101d150a75c1c156f460
+0x46d71cdaec30e0ee6c79fc98b7695bfab17e27d5
+0x641d8d0caffca8151cc765ecb7d405483071038a
+0x21c6a44c4b92e40100df57b8ce21ea75a6b9cb98
+0x4b01f6ef1cbaeb523e3aa92f218fcb2fc6a0f9c3
+0x029e262645642f047f98317a4fe7710e3466b0dc
+0xd942f09e3309465d6243acda952a5705c07c0416
+0x86d294bc324bde8cd74b84bec960c3e57f632955
+0x7c8068adfffb5c19e57825a05c9498f68a9b7d02
+0xa9df2c70e34328f4badc91537cca5fdcc9ad101a
+0xabe95ae9c57169e6edcd8e1680599ff76f956ad9
+0x747a35410291837da25b76d92983f28e238a011a
+0x079ae366983c33c3a36a62f20fba6ddf1b410be2
+0x1ee214fb3320e26e497c548977b0246de2611492
+0x45a6404060de393322ff0be4120a6d4f0397a048
+0xbc154765f9c50d54871fd672ebbb7fb72824e702
+0x5418ef18d35df0df5bf53c64509d21eed2f80d04
+0x5c183ff412016d51e66071bdcb8057821feee035
+0xfe393bb8185c35824bbf9e741760e6c87915cb83
+0x136c28ceb02a3e6919a6f86b7556d98de2d70212
+0xf9230b76f62c627e7d1545922ace104f89c90687
+0x08d9be8b19219b10b85005423ea6f9217af9712c
+0xa75bb3b7c8b67866700b74163e5c1bec188bb54c
+0xf264dc653e5d0d048fbc7c6e16412f539aec7f4a
+0xd1a230cf58b12c5b5093d8ec083275d1fcf8aaca
+0x311efddb09719abc088f876723ee3b730cbdbfed
+0x15343468b7e670fd0f9736c11eefa202ed978dba
+0xef45c077d0fef073062f843f4f96f2ed35ae273d
+0xbcd8ece7efd05d940b6f73c33b77779d185f2897
+0xd637a55cee087de583a91ceba69902c872aa98da
+0xc403ffeff26fe3dd2c9f0e74ec5869c58b29cf4c
+0x45f78881976f28af8f430e715a4d827834590198
+0x23a501684de7aaef8cf63e28b579c5a9aa88bc22
+0xe34e54cbd99f14e211f7a5d01eae81b8adbca2f3
+0x0b635d49fbf2abe8e689388339a3117e7061b239
+0x1ca538794482cff268f65c7dd6f85d1831996457
+0x5fb034eb49e27c936d5dcebdaed7301c3c161eae
+0x93ccc63a61329fcc3de1e0099349b375a60bdbb2
+0x9d4e353574758d7c03396425b2e2f0a4b8ef7258
+0x392222fc1585e8a414bf9540fb25fb5eec5e874f
+0x9cd128494352cb1378e8d2eabf98539beaea24cc
+0xe66b4e91cbaf9f318351f34dbb29fbea9f29d669
+0x9fdf89c95d8db7754a916b519771c69d67eefc4c
+```
+**有22个地址获得空投412738$ZK**
+```
+Address	                                   zk Amount
+0x1b6aa23a4de4cf66303386de2dfcdae29c7a43da	8141
+0x69a54cf9acadab098c35f6b0020a606a528cf663	3237
+0xd6762af75b32d487dcb68f29ea802a4ea586497e	1532
+0xc7be722a0227511769e683c4db5c511e8f38e2d8	36859
+0x232cd218b462bd9496e0cf4e7b02eb30cf0f71ea	1022
+0xb81e594cf546360dbcca737c2ca01ff9b3f3461b	1371
+0xad24ff5b503be5b6dd3936f842a252b0843ab808	1054
+0x416188cb4623cc6d2204b79442d44b72a997c4e1	1748
+0x04128317261b5ab669372f990580fac7e5c3937e	4003
+0x96e6dafdf012b9ede6ad50c7d8ee1e656a85dd60	100000
+0x591943d3f9a0aeb3e349d386aa7a87a2f6556a1b	5570
+0xbf09d4e2bf1cc4a3090ff10a1c4f70bdc21047fa	8550
+0xbffdf4ec5baf9ab4ad9574ae643be98aa8dd4cb7	1351
+0x0090c1b80986f514020e8592d5a9ba04ac1d7049	1293
+0x1654dda0ad1e0f0db485e1815c707ba8530e715c	943
+0x3429a18d911d528b035a768e0ecf66f3d7f8deac	6906
+0xeae5a1314509d4e1fb0066e7b87df8092fe073b3	76934
+0x82d313f325b3c9b63502bffe9c01361037086e99	100000
+0x5464912b966384bf6fb4222a6eca6013d99d6341	35038
+0x614cd70186e1131a7e93a39cf7a61df99e63e8b3	3726
+0x9fdf89c95d8db7754a916b519771c69d67eefc4c	10614
+0xad75835a3581046e639bd19e98011736df4de861	2846
+```
+
+**B2 batchMint**
+
+这组地址非常庞大我将他放入google表格
+
+https://docs.google.com/spreadsheets/d/1TnaSdzl6No_HinEZrSpBdZ_gqO-4esjV-EhGszj_XxY/edit?usp=sharing
+
+nft合约创建者利用合约权限batchMint了大量的（LIBERTAS OMNIBUS）给到9871个地址，4685个地址获得了空投，总共获得4300万ZK，更为可怕的是，上限的10万个zk地址竟然有109个，这是一个非常庞大的内部违规获取token手段，团队无需等待解锁份额，通过这个手段提前进行套利。
 
 -------------------------------------------------------
 接下来的这些是属于官方成员关联的地址
