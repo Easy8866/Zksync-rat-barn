@@ -38,7 +38,12 @@ The following addresses were identified through a Dune query, and there might be
 ![4](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/18bb19c0-6d68-466c-8a3b-c58f27654304)
 ![6](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/22566115-589e-4e34-8559-a21f6559ca6e)
 
+
+
+
 https://docs.google.com/spreadsheets/d/1x0S87uF6nS8ftrPFHkfaYqqaE0x6ekUNiwv5SL-S63I/edit?usp=sharing
+
+
 
 Among them, 79 addresses received a total of 740,000 ZK tokens as an airdrop.
 
@@ -60,7 +65,13 @@ The address that created the (LIBERTAS OMNIBUS) NFT contract is 0x526a599f58f1e5
 ![合约batchMint 02](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/63da8efa-a03f-4d53-ad1b-3195f4a9125b)
 
 
+
+
+
 https://docs.google.com/spreadsheets/d/1ppjwUBEA7E5R_MJ5NoON9OneTpjQUEtYDwSvXwtvO5o/edit?usp=sharing
+
+
+
 
 **After minting the NFTs, 65 addresses sold them on Element to make a profit.**
 
@@ -169,7 +180,9 @@ Address	                                   zk Amount
 
 This group of addresses is very large, and I have placed all the data into a Google spreadsheet.
 
+
 https://docs.google.com/spreadsheets/d/1TnaSdzl6No_HinEZrSpBdZ_gqO-4esjV-EhGszj_XxY/edit?usp=sharing
+
 
 *The NFT contract creator used contract privileges to `batchMint` a large number of (LIBERTAS OMNIBUS) NFTs to 9,871 addresses. Out of these, 4,685 addresses received a total of **43 million ZK tokens** as an airdrop. Even more concerning is that 109 addresses each received the maximum of 100,000 ZK tokens. This is a significant case of internal abuse for acquiring tokens, allowing the team to profit early without waiting for the unlock period.*
 
@@ -177,6 +190,7 @@ These 9,871 addresses undoubtedly sold NFTs on the market to seek profit. I will
 
 
 -------------------------------------------------------
+
 The following addresses are associated with official members.
 
 ozhar
