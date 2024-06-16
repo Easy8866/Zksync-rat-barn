@@ -39,7 +39,7 @@ The following addresses were identified through a Dune query, and there might be
 ![6](https://github.com/Easy8866/Zksync-rat-barn/assets/109504013/22566115-589e-4e34-8559-a21f6559ca6e)
 
 
-
+**The address is here ⬇⬇⬇**
 
 https://docs.google.com/spreadsheets/d/1x0S87uF6nS8ftrPFHkfaYqqaE0x6ekUNiwv5SL-S63I/edit?usp=sharing
 
@@ -66,6 +66,7 @@ The address that created the (LIBERTAS OMNIBUS) NFT contract is 0x526a599f58f1e5
 
 
 
+**The address is here ⬇⬇⬇**
 
 
 https://docs.google.com/spreadsheets/d/1ppjwUBEA7E5R_MJ5NoON9OneTpjQUEtYDwSvXwtvO5o/edit?usp=sharing
@@ -233,6 +234,8 @@ albicodes
 0x158d6919f02657c2d19041693cb58daaa201f367
 
 These two addresses also belong to official members. They possess (LIBERTAS OMNIBUS) NFTs and did not meet the airdrop conditions but were added to the whitelist to mint NFTs. I won't list the remaining official members' addresses and their affiliated addresses.
+
+The team members also minted (LIBERTAS OMNIBUS) NFTs through this method. This clearly shows that the contract privileges for this NFT are in the hands of core official members and not with third-party collaborators or interns. This prevents the officials from making excuses and shifting the responsibility.
 
 ---------------------------------------------------
 
